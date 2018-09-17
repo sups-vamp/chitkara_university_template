@@ -1,0 +1,166 @@
+.bgimg{
+     background: url(file:///C:/Users/supri/Desktop/office/images/a.jpg);
+    opacity: 0.5;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:405px;
+}
+.bgimg1{
+     background: url(file:///C:/Users/supri/Desktop/office/images/testimonial-background-1.jpg);
+    color:white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:15% 0;
+    margin: 45% 0 0;
+   
+}
+.fa-facebook{
+        font-size: 20px;
+        color:white;
+        background-color: darkblue;
+        border:solid 2px darkblue;
+        padding: 5px 9px;
+        border-radius: 8px;
+    }
+    .fa-instagram{
+        font-size: 20px;
+        color:white;
+        background-color: brown;
+        border:solid 2px brown;
+        padding: 5px;
+        border-radius: 8px;
+    }
+    .fa-twitter{
+        font-size: 20px;
+        color:white;
+        background-color: skyblue;
+        border:solid 2px skyblue;
+        padding: 5px;
+        border-radius: 8px;
+    }
+    header{
+        background-color: black;
+        color:white;
+    
+    }
+    .cu{
+        float: right;
+        background-color: black;
+        padding: 20px;
+        
+    }
+    .best{
+        letter-spacing: 3px;
+    }
+    .image{
+        float: left;
+        padding: 20px;
+    }
+    .main{
+        display: inline-block;
+        width: 100%;
+    }
+    .nav li{
+        display: block;
+        float: left;
+        color: aliceblue;
+        padding: 15px 20px;
+       font-family: monospace;
+        font-size: 15px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    .nav{
+         overflow: hidden;
+  background-color:  dimgrey;
+    }
+    .nav li:hover{
+        background-color: #C80000;
+    }
+.cards{
+    background-color: white;
+  }
+.c{
+    border-style:groove;
+    border-width: medium;
+    border-bottom-color: gainsboro;
+    width: 25%;
+    height:inherit;
+    float: left;
+    background-color: white;
+    margin: 4%;
+}
+.cardimgs{
+    border-radius: 10%;
+    text-align: center;
+    padding: 20px;
+    
+}
+.lb{
+    padding: 20px;
+    font-family:inherit;
+    font-weight: bold;
+}
+.details{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px;
+    color: gray;
+}
+.testimonial{
+    background-color:white;
+    width: 100%;
+    height:inherit;
+    color:black;
+    border-style:solid;
+    border-width: thick;
+    margin:20px;
+    width: inherit;
+    padding: 10px;
+}
+.text2{
+    text-align: center;
+    color:white;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+.one,.two,.three,.four,.five{
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 15px;
+    padding:20px;
+    margin: 20px;
+     color: gray;
+}
+.testimgs{
+    height: 50px;
+    width:20px;
+    border-radius: 10px;
+    
+}
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+ margin: 5px;
+}
+.name{
+    text-align: center;
+    color: olivedrab;
+}
+.contactfooter{
+    position: RELATIVE;
+    width: 100%;
+     background-color: black;
+     color: white;
+    margin: 0;
+}
+table
+{
+    color:white;
+}
